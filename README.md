@@ -5,4 +5,5 @@ This suite of system-level utilities for low-level tasks includes sub-projects m
   3. Process Scheduler
   4. Demand-Paging based SmartLoader
   5. Multithreading Library
+*
 It leverages core OS concepts such as process creation, inter-process communication, memory management, and multithreading to build robust and efficient components.
